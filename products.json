@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "categoryId": 1,
+    "name": "Thịt Bò Hokubeef Striploin Cắt Sẵn - ",
+    "price": 85000,
+    "originalPrice": 99000,
+    "image": "https://greengood.vn/wp-content/uploads/2023/12/Thit-Bo-Hokubeef-Striploin-800x800-sr-1.webp",
+    "detail": "Thịt bò Hokubeef là sản phẩm thịt bò công nghệ cao cấp, được lấy cảm hứng từ thịt bò Kobe (thơm ngọt nhưng giá thành cao, sản lượng thấp).Thịt bò Hokubeef được chế biến từ phần thịt thăn lưng bò của những đàn bò được nuôi và chăm sóc theo tiêu chuẩn nghiêm ngặt và chất lượng nhất."
+  },
+  {
+    "id": 2,
+    "categoryId": 1,
+    "name": "Ba Chỉ Bò Cuộn Ishiga - Khay 500gram",
+    "price": 103000,
+    "originalPrice": 125000,
+    "image": "https://greengood.vn/wp-content/uploads/2024/11/z6654739221950_4fb73203e2fea73e9e2a38a56d6b9392.webp",
+    "detail": "Thịt bò cuộn Ishiga được đóng gói hút chân không, vừa đảm bảo vệ sinh an toàn thực phẩm, vừa rất tiện lợi cho việc bảo quản và sử dụng. Người tiêu dùng có thể dễ dàng bảo quản trong ngăn đông tủ lạnh và lấy ra sử dụng khi cần thiết."
+  },
+  {
+    "id": 3,
+    "categoryId": 1,
+    "name": "Thăn Ngoại Bò Wagyu King Beef - 200gran",
+    "price": 145000,
+    "originalPrice": 2450000,
+    "image": "https://greengood.vn/wp-content/uploads/2023/12/Thit-Than-Ngoai-Bo-Wagyu-King-Beef-Striploin-800x800s.webp",
+    "detail": "Thịt thăn ngoại bò Wagyu King có một viền mỡ đặc trưng bên ngoài. Phần thịt này nằm cuối dẻ sườn với các vân mỡ đan xen đều đặn trong từng thớ thịt khiến miếng thịt thăn khi nướng lên có độ mềm mỏng do mỡ tan chảy thơm nức, rất thích hợp làm món nướng hoặc áp chảo."
+  },
+  {
+    "id": 4,
+    "categoryId": 1,
+    "name": "Thịt Bò Wagyu Úc - 200gram",
+    "price": 140000,
+    "originalPrice": 170000,
+    "image": "https://greengood.vn/wp-content/uploads/2023/12/Thit-Bo-Wagyu-Uc-800x800-2-510x510.webp",
+    "detail": "Wagyu Úc là một loại thịt bò nhập khẩu đang được bán chạy nhất nhì trên thị trường. Khi so sánh với bò Kobe thì nó cũng không hề kém cạnh về chất lượng."
+  },
+  {
+    "id": 5,
+    "categoryId": 3,
+    "name": "Cá Trích Ép Trứng Đủ Loại: Màu Vàng, Màu Đỏ, Màu Xanh - 1 Thanh",
+    "price": 80000,
+    "originalPrice": 85000,
+    "image": "https://greengood.vn/wp-content/uploads/2024/01/Trung-Ca-Trich-23.webp",
+    "detail": "Cá trích ép trứng được làm bằng cách ngâm giấm những lát fillet cá trích, sau đó ép trứng cá chuồn vào bên dưới những lát cá trích đó. Cá trích bùi béo cộng với trứng cá giòn tan tạo nên vị ngon khó cưỡng của món ăn."
+  },
+  {
+    "id": 6,
+    "categoryId": 3,
+    "name": "250gram Cá Hồi Sashimi Nauy và Tặng Gừng Hồng",
+    "price": 199000,
+    "originalPrice": 290000,
+    "image": "https://greengood.vn/wp-content/uploads/2025/01/Ca-Hoi-Sashimi-23423.webp",
+    "detail": "Cá hồi sashimi Nauy được biết đến là món ăn cao cấp, thơm ngon và giàu dinh dưỡng. Thịt cá hồi tươi, mềm, béo ngậy hòa quyện với hương vị cay thơm của gừng hồng Thái Lan tạo nên một món ăn hấp dẫn khó cưỡng."
+  },
+  {
+    "id": 7,
+    "categoryId": 3,
+    "name": "Cá Hồi Tươi NAUY Fillet 250gram",
+    "price": 168000,
+    "originalPrice": 200000,
+    "image": "https://greengood.vn/wp-content/uploads/2024/01/Ca-Hoi-Nauy-Tuoi-Fillet-Nguyen-Con-4.webp",
+    "detail": "Cá hồi là nguồn thực phẩm chứa hàm lượng dinh dưỡng rất cao. Cá hồi có thể chế biến nhiều món ăn khác nhau, hương vị thịt thơm ngon, nên được rất nhiều khách hàng sành ăn lựa chọn."
+  },
+  {
+    "id": 8,
+    "categoryId": 3,
+    "name": "Râu Bạch Tuộc Nhật Sashimi - 1Kg",
+    "price": 560000,
+    "originalPrice": 600000,
+    "image": "https://greengood.vn/wp-content/uploads/2024/01/RAU-BACH-TUOC-SASHIMI.webp",
+    "detail": "Râu bạch tuộc Nhật hiện đang là một trong những sản phẩm rất được ưa thích bởi hương vị tươi ngon cùng độ giòn dai đặc trưng."
+  },
+  {
+    "id": 9,
+    "categoryId": 2,
+    "name": "Cá Thu Đao Nhật - 1kg",
+    "price": 190000,
+    "originalPrice": 220000,
+    "image": "https://zalo-miniapp.github.io/zaui-market/dummy/product/cabbage.png",
+    "detail": "Trong cá Sanma có chứa hàm lượng chất béo cao. Tuy nhiên nó không ảnh hưởng đến cân nặng của người dùng. Chất béo này kết hợp với các axit béo, axit amin giúp giảm cholesterol và chống béo phì."
+  },
+  {
+    "id": 10,
+    "categoryId": 2,
+    "name": "Lươn Nhật – Unagi Japan - 1Kg",
+    "price": 670000,
+    "originalPrice": 710000,
+    "image": "https://greengood.vn/wp-content/uploads/2023/12/Luon-Nhat-2-510x510.webp",
+    "detail": "Unagi là loại lươn sống ở nước ngọt, có hương vị đậm đà, thịt béo, mềm đặc trưng. Với người Nhật, lươn nướng được xếp vào danh sách các món ăn truyền thống giải nhiệt mùa hè, được ăn trong ngày Kỷ Sửu. Ngày Kỷ Sửu là ngày nóng nhất mùa hè, ăn lươn để chống lại tiết trời nóng nực, giúp giải nhiệt và cung cấp sức mạnh, sự dẻo dai trong cả năm."
+  }
+]

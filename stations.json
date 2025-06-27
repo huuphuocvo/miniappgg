@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "GreenGood - Kho 1 HCM",
+    "image": "https://greengood.vn/wp-content/uploads/2025/06/logo-GG-022-app-mini-scaled.png",
+    "address": "131/98 Đường 26/3, P Bình Hưng Hòa, Q Bình Tân, TP HCM",
+    "location": {
+      "lat": 10.798998132585847,
+      "lng": 106.60859912512142
+    }
+  },
+  {
+    "id": 2,
+    "name": "GreenGood - Kho 2 HCM",
+    "image": "https://ishiga.vn/wp-content/uploads/2024/10/logo-ishiga-2.png",
+    "address": "76/46 Lê Văn Phan, P Phú Thọ Hòa, Tân Phú, Tp HCM",
+    "location": {
+      "lat": 10.786929054846691,
+      "lng": 106.63139335582343
+    }
+  },
+  {
+    "id": 3,
+    "name": "GreenGood - Kho Bình Dương",
+    "image": "https://ishiga.vn/wp-content/uploads/2024/10/logo-ishiga-2.png",
+    "address": "95 Hoàng Văn Thụ, Tổ 11 kp 12 P Chánh Nghĩa, Tp Thủ Dầu 1, Bình Dương",
+    "location": {
+      "lat": 10.974536676972516,
+      "lng": 106.66554298741553
+    }
+  }
+]

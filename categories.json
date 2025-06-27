@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Thịt Nhập Khẩu",
+    "image": "https://greengood.vn/wp-content/uploads/2025/06/meat-beef.png"
+  },
+  {
+    "id": 2,
+    "name": "Hải Sản Nhập Khẩu",
+    "image": "https://greengood.vn/wp-content/uploads/2025/06/haisan.png"
+  },
+  {
+    "id": 3,
+    "name": "Sashimi",
+    "image": "https://greengood.vn/wp-content/uploads/2025/06/sashimi.png"
+  }
+]
